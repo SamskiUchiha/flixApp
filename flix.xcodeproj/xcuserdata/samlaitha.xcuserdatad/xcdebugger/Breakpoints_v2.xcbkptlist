@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "flix/MoviesViewController.swift"
+            timestampString = "590306184.606203"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "flix.MoviesViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "flix"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samlaitha/Desktop/IOS%20-%20CST495/flix/flix/MoviesViewController.swift"
+                  timestampString = "589773038.687024"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "897">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in flix.MoviesViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "flix"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samlaitha/Desktop/IOS%20-%20CST495/flix/flix/MoviesViewController.swift"
+                  timestampString = "589773038.688702"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "242">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "flix/MoviesViewController.swift"
+            timestampString = "590306184.6062599"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "flix/MoviesViewController.swift"
+            timestampString = "590306184.606299"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "flix/MoviesViewController.swift"
+            timestampString = "590306184.6063319"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "MoviesViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "flix.MoviesViewController.tableView.getter : Swift.Optional&lt;__C.UITableView&gt;"
+                  moduleName = "flix"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samlaitha/Desktop/IOS%20-%20CST495/flix/flix/MoviesViewController.swift"
+                  timestampString = "589944609.827661"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "86">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "flix.MoviesViewController.tableView.setter : Swift.Optional&lt;__C.UITableView&gt;"
+                  moduleName = "flix"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samlaitha/Desktop/IOS%20-%20CST495/flix/flix/MoviesViewController.swift"
+                  timestampString = "589944609.830284"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "106">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "flix.MoviesViewController.tableView.modify : Swift.Optional&lt;__C.UITableView&gt;"
+                  moduleName = "flix"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samlaitha/Desktop/IOS%20-%20CST495/flix/flix/MoviesViewController.swift"
+                  timestampString = "589944609.8328"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "69">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "flix.MoviesViewController.tableView.modify : Swift.Optional&lt;__C.UITableView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "flix"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samlaitha/Desktop/IOS%20-%20CST495/flix/flix/MoviesViewController.swift"
+                  timestampString = "589944609.835722"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "flix.MoviesViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; flix.MoviesViewController"
+                  moduleName = "flix"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samlaitha/Desktop/IOS%20-%20CST495/flix/flix/MoviesViewController.swift"
+                  timestampString = "589944609.838411"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "199">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "flix.MoviesViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;flix.MoviesViewController&gt;"
+                  moduleName = "flix"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samlaitha/Desktop/IOS%20-%20CST495/flix/flix/MoviesViewController.swift"
+                  timestampString = "589944609.841135"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "107">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "flix/MoviesViewController.swift"
+            timestampString = "590306184.606366"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "flix.MoviesViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; flix.MoviesViewController"
+                  moduleName = "flix"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samlaitha/Desktop/IOS%20-%20CST495/flix/flix/MoviesViewController.swift"
+                  timestampString = "589773048.026302"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "flix.MoviesViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; flix.MoviesViewController"
+                  moduleName = "flix"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samlaitha/Desktop/IOS%20-%20CST495/flix/flix/MoviesViewController.swift"
+                  timestampString = "589773048.0290231"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "361">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "flix.MoviesViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;flix.MoviesViewController&gt;"
+                  moduleName = "flix"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samlaitha/Desktop/IOS%20-%20CST495/flix/flix/MoviesViewController.swift"
+                  timestampString = "589773048.031022"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "flix.MoviesViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;flix.MoviesViewController&gt;"
+                  moduleName = "flix"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samlaitha/Desktop/IOS%20-%20CST495/flix/flix/MoviesViewController.swift"
+                  timestampString = "589773048.033491"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "201">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "flix.MoviesViewController.__deallocating_deinit"
+                  moduleName = "flix"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samlaitha/Desktop/IOS%20-%20CST495/flix/flix/MoviesViewController.swift"
+                  timestampString = "589773048.036329"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
