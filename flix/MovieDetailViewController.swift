@@ -17,9 +17,9 @@ class MovieDetailViewController: UIViewController {
     @IBOutlet weak var posterView: UIImageView!
     @IBOutlet weak var backdropView: UIImageView!
     @IBOutlet weak var titleLabel: UILabel!
-    @IBOutlet weak var ratingLabel: UILabel!
-    @IBOutlet weak var languageLabel: UILabel!
-    @IBOutlet weak var dateLabel: UILabel!
+//    @IBOutlet weak var ratingLabel: UILabel!
+//    @IBOutlet weak var languageLabel: UILabel!
+//    @IBOutlet weak var dateLabel: UILabel!
     @IBOutlet weak var synopsisLabel: UILabel!
     
     override func viewDidLoad() {
@@ -30,11 +30,11 @@ class MovieDetailViewController: UIViewController {
         titleLabel.text = movie["title"] as? String
         titleLabel.sizeToFit()
         
-        let a = String(format: "%.1f", movie!["vote_average"] as! CVarArg)
-        ratingLabel.text = String(a)
+//        let a = String(format: "%.1f", movie!["vote_average"] as! CVarArg)
+//        ratingLabel.text = String(a)
         
-        languageLabel.text = movie["original_language"] as? String
-        dateLabel.text = movie["release_date"] as? String
+//        languageLabel.text = movie["original_language"] as? String
+//        dateLabel.text = movie["release_date"] as? String
         
         synopsisLabel.text = movie["overview"] as? String
         synopsisLabel.sizeToFit()
